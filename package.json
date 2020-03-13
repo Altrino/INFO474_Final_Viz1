@@ -1,0 +1,26 @@
+{
+  "name": "INFO474_Final_Viz1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altrino/INFO474_Final_Viz1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altrino/INFO474_Final_Viz1/issues"
+  },
+  "homepage": "https://github.com/Altrino/INFO474_Final_Viz1#readme",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "json2csv": "^4.5.4",
+    "stringify-package": "^1.0.1",
+    "tedious": "^8.0.1"
+  }
+}
